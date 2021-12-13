@@ -1,0 +1,5 @@
+baseURL = 'http://chil3.cl/'
+languageCode = 'en-us'
+title = 'chil3 un Gobierno Descentralizado'
+theme = 'somrat'
+
