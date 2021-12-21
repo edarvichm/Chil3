@@ -10,12 +10,12 @@ button:
 ########################### Experience ##############################
 experience:
   enable : true
-  title : "EXPERIENCE"
+  title : "Hoja de Ruta"
   experience_list:
     # experience item loop
-    - name : "Web Developer"
+    - name : "Descentralización"
       company : "Fiverr.com"
-      duration : "2016-2018"
+      duration : "2030"
       content : "I work with HTML, CSS, and Javascript to create websites and web applications like Personal, Business, Blog, E-comerches etc."
       
     # experience item loop
@@ -36,19 +36,19 @@ skill:
   title : "SKILL"
   skill_list:
     # skill item loop
-    - name : "Web Development"
-      percentage : "98%"
+    - name : "Optimizacion de Registroa"
+      percentage : "30%"
       
     # skill item loop
-    - name : "Graphic Design"
+    - name : "Transparencia Trazable"
       percentage : "85%"
       
     # skill item loop
-    - name : "Database Management"
+    - name : "Representación Individual"
       percentage : "90%"
       
     # skill item loop
-    - name : "Wordpress"
+    - name : "Organización Eficiente"
       percentage : "70%"
 
 
@@ -58,4 +58,11 @@ custom_attributes: ""
 custom_css: ""
 ---
 
-It's Somrat, Professional Web Developer. I love to write code, it's my passoin. I am here to help you, i am here to design your web page. i can help you to describe yourself in the best way.<br>No matter how difficult your web page is, i will find an easy way and complete your work anyway. Stay connect with me........😊
+Estamos explorando formas de organizar las ciudad de Chile usando código, consenso, y dinero descentralizados.
+
+"No pelees contra el sistema, abandónalo"
+
+Consenso aproximado por sobre votos de mayorías defectuosos.
+Dinero programable por sobre licitaciones corruptibles.
+Democracia líquida por sobre democracia anacrónica.
+Comunidad por sobre reyes populistas.
