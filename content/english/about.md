@@ -1,5 +1,5 @@
 ---
-title : "QuÉ <br> QUEREMOS"
+title : "QUÉ <br> QUEREMOS"
 image : "images/backgrounds/portrait.jpg"
 # button
 button:
@@ -19,15 +19,15 @@ experience:
       content : "I work with HTML, CSS, and Javascript to create websites and web applications like Personal, Business, Blog, E-comerches etc."
       
     # experience item loop
-    - name : "Graphic Designer"
+    - name : "Adopción de Conceptos"
       company : "Chile"
       duration : "2030"
       content : "Graphic design is art with a purpose. I love illustration, so logo desing is my favorite work. But i can do many things with graphics."
       
     # experience item loop
     - name : "Database Manager"
-      company : "Polytechnic"
-      duration : "2014-2018"
+      company : "Laboratorio de No-Instituciones"
+      duration : "2022"
       content : "Database management is among the fundamental processes in the software field of computing. I know MS Access very well."
 
 ############################### Skill #################################
