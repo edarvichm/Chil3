@@ -113,26 +113,26 @@ copyright = "Copyright &copy; 2020 a hugo theme by [somrat](https://somrat.netli
 
 # main menu
 [[Languages.en.menu.main]]
-name = "Home"
+name = "Inicio"
 url = "/"
 weight = 1
 
 [[Languages.en.menu.main]]
-name = "About me"
+name = "Nosotros"
 pre = "#"
-url = "about"
+url = "nosotros"
 weight = 2
 
 [[Languages.en.menu.main]]
-name = "Service"
+name = "Manifiesto"
 pre = "#"
-url = "service"
+url = "manifiesto"
 weight = 3
 
 [[Languages.en.menu.main]]
-name = "Portfolio"
+name = "Ideas"
 pre = "#"
-url = "portfolio"
+url = "ideas"
 weight = 4
 
 [[Languages.en.menu.main]]
@@ -142,9 +142,9 @@ url = "testimonial"
 weight = 5
 
 [[Languages.en.menu.main]]
-name = "Contact"
+name = "Contacto"
 pre = "#"
-url = "contact"
+url = "contacto"
 weight = 6
 
 [[Languages.en.menu.main]]
