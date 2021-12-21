@@ -25,8 +25,8 @@ experience:
       content : "Graphic design is art with a purpose. I love illustration, so logo desing is my favorite work. But i can do many things with graphics."
       
     # experience item loop
-    - name : "Database Manager"
-      company : "Laboratorio de No-Instituciones"
+    - name : "Laboratorio de No-Instituciones"
+      company : "Chile"
       duration : "2022"
       content : "Database management is among the fundamental processes in the software field of computing. I know MS Access very well."
 
