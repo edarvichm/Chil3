@@ -1,8 +1,8 @@
 ---
-title : "I'm Somrat Sorkar"
+title : "Chil3.cl"
 # full screen navigation
-first_name : "MacGyver"
-last_name : "SOMRAT"
+first_name : "Des-Gobierno"
+last_name : "De Chil3"
 bg_image : "images/backgrounds/full-nav-bg.jpg"
 # animated text loop
 occupations:
