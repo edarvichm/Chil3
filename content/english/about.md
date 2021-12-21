@@ -1,27 +1,27 @@
 ---
-title : "KNOW MORE <br> ABOUT ME"
+title : "QuÉ <br> QUEREMOS"
 image : "images/backgrounds/portrait.jpg"
 # button
 button:
   enable : true
-  label : "DOWNLOAD MY CV"
-  link : "#"
+  label : "CONTÁCTANOS"
+  link : "#contact"
 
 ########################### Experience ##############################
 experience:
   enable : true
-  title : "Hoja de Ruta"
+  title : "HOJA DE RUTA"
   experience_list:
     # experience item loop
-    - name : "Descentralización"
-      company : "Fiverr.com"
-      duration : "2030"
+    - name : "Descentralización Efectiva"
+      company : "Chile"
+      duration : "2035"
       content : "I work with HTML, CSS, and Javascript to create websites and web applications like Personal, Business, Blog, E-comerches etc."
       
     # experience item loop
     - name : "Graphic Designer"
-      company : "Fiverr.com"
-      duration : "2015-2018"
+      company : "Chile"
+      duration : "2030"
       content : "Graphic design is art with a purpose. I love illustration, so logo desing is my favorite work. But i can do many things with graphics."
       
     # experience item loop
@@ -33,10 +33,10 @@ experience:
 ############################### Skill #################################
 skill:
   enable : true
-  title : "SKILL"
+  title : "TAREAS"
   skill_list:
     # skill item loop
-    - name : "Optimizacion de Registroa"
+    - name : "Optimización de Registros"
       percentage : "30%"
       
     # skill item loop
