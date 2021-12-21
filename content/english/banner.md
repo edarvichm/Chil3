@@ -19,8 +19,8 @@ slider_images:
 # button
 button:
   enable : true
-  label : "HIRE ME"
-  link : "#contact"
+  label : "CONOCE MÁS"
+  link : "#portfolio"
 
 
 # custom style
